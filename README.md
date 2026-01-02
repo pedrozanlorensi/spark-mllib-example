@@ -1,4 +1,3 @@
-%md
 # Linear Regression Inference with MLflow on Databricks
 
 ## Overview
